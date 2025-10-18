@@ -1,0 +1,5 @@
+{
+  "name": "React Portfolio Website",
+  "description": "A personal portfolio website built with React and TypeScript, showcasing projects and skills by fetching data from the GitHub API.",
+  "requestFramePermissions": []
+}
