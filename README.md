@@ -1,20 +1,42 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Arunabh Bhattacharyya - Personal Portfolio
 
-This contains everything you need to run your app locally.
+This is the source code for my personal portfolio website, built from the ground up with React, TypeScript, and Vite. It's designed to showcase my skills, projects, and professional experience in a clean, modern, and interactive way.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1hVtx6nDVqxjeHAXb_r-fyfDZ7s4xxsx7
+## ✨ Features
 
-## Run Locally
+- **Dynamic Content**: Fetches my latest projects and profile information directly from the GitHub API.
+- **Interactive UI**: Includes engaging 3D hover effects, a typing animation, and a friendly pixel bot mascot that jumps on click.
+- **Responsive Design**: Looks great on all devices, from mobile phones to desktop monitors.
+- **Tech Stack Showcase**: A dynamic, scrolling marquee of the technologies I work with, complete with colored logos.
 
-**Prerequisites:**  Node.js
+## 🚀 Getting Started
 
+To run this project locally, follow these steps:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Prerequisites
+
+Make sure you have Node.js installed on your machine.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/runabh1/my-portfolio.git
+    cd my-portfolio
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+
+The application will be available at `http://localhost:3000`.
