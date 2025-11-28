@@ -22,7 +22,7 @@ const About: React.FC<AboutProps> = ({ user }) => {
                 <div className="md:col-span-1 flex justify-center">
                     <div className="w-48 h-48 p-1 rounded-full border-4 border-teal-400">
                          <img
-                            src="https://ik.imagekit.io/0hygozmgt/WhatsApp%20Image%202025-10-19%20at%203.44.08%20AM.jpeg?updatedAt=1760825672180"
+                            src="https://ik.imagekit.io/0hygozmgt/WhatsApp%20Image%202025-11-28%20at%208.47.17%20PM.jpeg"
                             alt={user.name || 'Arunabh Bhattacharyya'}
                             className="w-full h-full object-cover rounded-full"
                         />
