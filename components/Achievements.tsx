@@ -6,10 +6,10 @@ import CertificateIcon from './icons/CertificateIcon';
 const achievements = [
   {
     icon: CertificateIcon,
-    title: 'Hackathon Participation',
-    issuer: 'Hackathon Organizer',
-    year: '2024',
-    url: 'https://ik.imagekit.io/0hygozmgt/WhatsApp%20Image%202025-10-19%20at%203.57.54%20AM.jpeg?updatedAt=1760826880721',
+    title: 'Hackathon winner',
+    issuer: 'CTII Dibrugarh university',
+    year: '2025',
+    url: 'https://ik.imagekit.io/0hygozmgt/WhatsApp%20Image%202025-11-21%20at%203.45.25%20PM.jpeg',
   },
   {
     icon: CertificateIcon,
