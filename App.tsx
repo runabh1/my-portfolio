@@ -10,6 +10,7 @@ import Projects from './components/Projects';
 import GithubContributions from './components/GithubContributions';
 import Experience from './components/Experience';
 import Achievements from './components/Achievements';
+import Resume from './components/Resume';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -75,6 +76,7 @@ const App: React.FC = () => {
         <GithubContributions />
         <Experience />
         <Achievements />
+        <Resume />
         <Contact />
       </main>
       <Footer />

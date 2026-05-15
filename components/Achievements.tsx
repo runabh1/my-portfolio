@@ -6,6 +6,13 @@ import CertificateIcon from './icons/CertificateIcon';
 const achievements = [
   {
     icon: CertificateIcon,
+    title: 'Winner - GUenark SIH 1.0 Hackathon',
+    issuer: 'GUenark SIH 1.0',
+    year: '2025',
+    url: 'https://img.sanishtech.com/u/0b5e951c3eba5784f6e9791ba36deec8.jpg',
+  },
+  {
+    icon: CertificateIcon,
     title: 'Hackathon winner',
     issuer: 'CTII Dibrugarh university',
     year: '2025',
