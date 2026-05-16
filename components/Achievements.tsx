@@ -9,7 +9,7 @@ const achievements = [
     title: 'Winner - GUenark SIH 1.0 Hackathon',
     issuer: 'GUenark SIH 1.0',
     year: '2025',
-    url: '<img src="https://www.image2url.com/r2/default/images/1778941125947-882fa950-b1f4-4028-8722-0f47b2baeeb6.jpeg" alt="image" />',
+    url: 'https://www.image2url.com/r2/default/images/1778941125947-882fa950-b1f4-4028-8722-0f47b2baeeb6.jpeg',
   },
   {
     icon: CertificateIcon,
