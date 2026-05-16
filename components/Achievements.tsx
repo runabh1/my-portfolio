@@ -9,7 +9,7 @@ const achievements = [
     title: 'Winner - GUenark SIH 1.0 Hackathon',
     issuer: 'GUenark SIH 1.0',
     year: '2025',
-    url: 'https://img.sanishtech.com/u/0b5e951c3eba5784f6e9791ba36deec8.jpg',
+    url: '<img src="https://www.image2url.com/r2/default/images/1778941125947-882fa950-b1f4-4028-8722-0f47b2baeeb6.jpeg" alt="image" />',
   },
   {
     icon: CertificateIcon,
@@ -45,13 +45,13 @@ const achievements = [
 const Achievements: React.FC = () => {
   return (
     <Section id="achievements" title="Achievements & Certifications">
-        <div className="max-w-4xl mx-auto">
-            <div className="space-y-8">
-                {achievements.map((achievement, index) => (
-                    <AchievementCard key={index} achievement={achievement} />
-                ))}
-            </div>
+      <div className="max-w-4xl mx-auto">
+        <div className="space-y-8">
+          {achievements.map((achievement, index) => (
+            <AchievementCard key={index} achievement={achievement} />
+          ))}
         </div>
+      </div>
     </Section>
   );
 };
